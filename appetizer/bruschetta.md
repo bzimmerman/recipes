@@ -15,3 +15,5 @@ Tasty Italian bread snack.
 
 ## Serving Advice
 
+Makes a good platter of snacks. Good for a half-dozen people to nosh on.
+
