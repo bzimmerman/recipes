@@ -8,3 +8,6 @@
 
 ## Stouts
 * Chocolate Porter
+
+## Bitters
+Bitter Bitch
