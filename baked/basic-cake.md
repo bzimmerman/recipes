@@ -1,6 +1,7 @@
 Basic Butter Cake
 =================
 
+## Ingredients
 - 1/2 c egg whites, room temperature (about 4)
 - 1 c milk, divided, room temperature
 - 2 tsp vanilla
@@ -10,10 +11,12 @@ Basic Butter Cake
 - 3/4 tsp salt
 - 2 sticks unsalted butter, room temperature
 
-Prehead oven to 350
+## Prerequisites
+Prehead oven to 350.
 
 Line 2 cake pans with parchment paper.
 
+## Let's Go!
 Mix egg whites, 1/4 c milk and vanilla. Set aside.
 
 Place flour, sugar, baking powder, salt and butter in a bowl. Mix 15-20 seconds.
