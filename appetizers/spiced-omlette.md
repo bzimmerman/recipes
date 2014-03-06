@@ -4,7 +4,7 @@ It's an amazing recipe to quickly make it
 
 # Ingredients
 2 Eggs
-21 Seasoning
+Chipotle Sause
 1 tsp Avocado Oil
 Pepper
 Salt
