@@ -5,9 +5,10 @@
 
 ## Lagers
 * Blue Buck
+* Kokanee
 
 ## Stouts
 * Chocolate Porter
 
 ## Bitters
-Bitter Bitch
+* Bitter Bitch
