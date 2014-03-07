@@ -6,12 +6,12 @@ Mango Habanero Salsa
 - 4 tomatoes, chopped, yellow or red
 - 2 habanero peppers *
 - 1 onion, chopped
-- 8 cloves of garlic, finely chopped or minced
+- 8 cloves of garlic, finely chopped or minced *
 - 4 Tbsp olive oil
 - 2 Tbsp honey
-- salt and pepper to taste
+- salt and pepper *
 
-* more or less to taste
+\* more or less to taste
 
 ## Process
 
