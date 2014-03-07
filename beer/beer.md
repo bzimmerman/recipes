@@ -9,8 +9,10 @@
 * Kokanee
 * Red Truck
 
+
 ## Stouts
 * Chocolate Porter
+
 
 ## Bitters
 * Bitter Bitch
