@@ -14,8 +14,13 @@ Tasty Italian bread snack.
 
 ## Directions
 
-1. Slice baguette into slices about 3/8" thick
-
+1. Combine oil, basic, garlic, and parmesan in bowl
+2. Smell it. Seriously.
+3. Slice tomatoes into slices about 1/4" thick
+4. Do the same with the cheese
+5. Marinate cheese and tomatoes in that amazing oil mixture
+6. Slice baguette into slices about 3/8" thick
+7. 
 
 ## Serving Advice
 
