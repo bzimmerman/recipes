@@ -5,7 +5,7 @@
 * Salt, for rimming the glass (optional)
 * Ice
 * 1 1/2 ounces reposado tequila (blanco, 100 percent agave)
-* 1 oz freshly squeezed lime juice
+* 1 oz freshly squeezed lime juice (not bottled)
 * 1/2 ounce Cointreau (not Triple Sec)
 
 # Directions
