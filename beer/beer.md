@@ -2,6 +2,7 @@
 
 ## IPAs
 * Fat Tug
+* Backhand of God
 
 ## Lagers
 * Blue Buck
