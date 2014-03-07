@@ -9,6 +9,8 @@ Tasty Italian bread snack.
 * 1/4C basil
 * 1/4C fresh grated parmesan
 * 2T crushed garlic
+* 4 roma tomatoes
+* 1/2 lb. mozerella
 
 ## Directions
 
