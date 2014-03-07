@@ -12,6 +12,8 @@ Tasty Italian bread snack.
 
 ## Directions
 
+1. Slice baguette into slices about 3/8" thick
+
 
 ## Serving Advice
 
