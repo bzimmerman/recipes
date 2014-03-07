@@ -20,7 +20,11 @@ Tasty Italian bread snack.
 4. Do the same with the cheese
 5. Marinate cheese and tomatoes in that amazing oil mixture
 6. Slice baguette into slices about 3/8" thick
-7. 
+7. Drain oil mixture from tomatoes and cheese
+8. Brush leftover oil mixture on to bread
+9. Bake bread at 325˚F for 18 minutes
+10. Put tomatoes and cheese on bread
+11. Enjoy
 
 ## Serving Advice
 
