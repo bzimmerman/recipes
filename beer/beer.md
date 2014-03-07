@@ -7,6 +7,7 @@
 ## Lagers
 * Blue Buck
 * Kokanee
+* Red Truck
 
 ## Stouts
 * Chocolate Porter
