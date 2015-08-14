@@ -15,7 +15,7 @@ A filling and nutritious breakfast with a Mexican flair
 
 ## Directions
 
-1. Preheat oven to 425˚F
+1. Preheat oven to 425˚F / 220˚C
 2. Shred yams and drizzle with olive oil
 3. Bake for 50 minutes, turning every 10 minutes
 4. Brown beef or pork sausage
